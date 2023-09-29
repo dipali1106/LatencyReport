@@ -1,0 +1,21 @@
+******************* Db To Select****
+DataHost=10.10.20.52
+DataUser=dev15
+DataPassword=QuONHanTSqD5nC7d
+DataDb=tdot_websmpp
+DataPort=3306
+
+TotalConnection=10
+MaxReadCount=500
+ChunkSize=100
+PoolSize=18
+*********** second Connection Detail To Insert*************
+
+MasterHost=10.10.20.52
+MasterUser=dev15
+MasterPassword=QuONHanTSqD5nC7d
+MasterDb=tdot_multiapi
+MasterPort=3306
+
+
+
